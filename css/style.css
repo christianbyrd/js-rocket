@@ -1,0 +1,21 @@
+body {
+	background: peachpuff;
+}
+.cool {
+	width: 100px;
+	height: 100px;
+	background-color: lightgreen;
+	transition: background-color 2s;
+	
+
+}
+
+.seagreen {
+	background-color: lightseagreen;
+
+}
+
+a {
+	text-decoration: none;
+	text-transform: uppercase;
+}
